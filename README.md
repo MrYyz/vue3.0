@@ -1,4 +1,4 @@
-vue3.0 + vant-ui
+vue3.0 + vant-ui 学习项目
 
 生成github令牌[token]: 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
 
